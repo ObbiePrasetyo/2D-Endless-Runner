@@ -13,9 +13,11 @@ Tugas DILo Chapter 3
 2. Backsound Lost Saga Wild West
 3. SFX Lompat, Jatuh dan Score mencapai 50
 4. Button dan Character Animations
-5. increment speed! Every 15/Sec speed +1
-6. Space for jump!
-7. Character herp by : Ahmad Aziz Saputra
+5. Pixel Font
+6. Instruction
+7. increment speed! Every 15/Sec speed +1
+8. Space for jump!
+9. Character herp by : Ahmad Aziz Saputra
 
 # Example Scene
 ![ss2](https://user-images.githubusercontent.com/89525164/133279903-0d6345a1-2022-4c74-9a4c-ee0f02c276f6.png)
