@@ -11,7 +11,6 @@ Tugas DILo Chapter 3
 7. Ganti Kursor
 8. increment speed! Every 15/Sec speed +1
 9. Space for jump!
-10. Character herp by : Ahmad Aziz Saputra
 
 # Example Scene
 ![ss2](https://user-images.githubusercontent.com/89525164/133279903-0d6345a1-2022-4c74-9a4c-ee0f02c276f6.png)
