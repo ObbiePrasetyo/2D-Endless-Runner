@@ -1,5 +1,4 @@
 # 2D-Endless-Runner
-Tugas DILo Chapter 3
 
 # Additional features :
 1. Paralax Background (https://pngtree.com/freebackground/background-of-a-landscape-in-the-forest-and-mountains_1160347.html)
